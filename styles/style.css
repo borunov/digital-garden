@@ -93,8 +93,9 @@ a:hover {
 /* Foooter section END */
 
 .markdown-rendered {
-    font-size: 20px;
+    font-size: 22px;
     line-height: 1.4em;
+    text-align: justify;
     width: 740px;
     background-color: var(--background-primary);
     color: var(--text-normal);
